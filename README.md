@@ -17,7 +17,7 @@ $ python3 qtspock.py
 
 qtspock requires
 
-* python >= 3.5
+* python >= 2.7
 * a working spock profile
 * PyQt5
 * Jupyter qtconsole
